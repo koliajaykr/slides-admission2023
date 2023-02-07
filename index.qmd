@@ -36,7 +36,7 @@ revealjs-plugins:
 :::
 :::
 
-#### [Savitribai Phule & Ramabai Ambedkar Institute of Data Science]{.r-fit-text}
+##### [Savitribai Ramabai Institute of Data Science]{.r-fit-text}
 
 ## Sara Institute 💫 {background-color="#E9E9E9"}
 
