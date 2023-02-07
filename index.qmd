@@ -1,0 +1,128 @@
+---
+title: "SARA INSTITUTE"
+subtitle: "Jai Savitri! Jai Ramaai!"
+author: Ajay Koli
+date: today
+date-format: medium
+format: 
+  revealjs:
+    theme: default
+    title-slide-attributes: 
+      data-background-image: image/title.png
+      data-background-size: cover
+      data-background-opacity: "0.03"
+      data-background-color:   "#E9E9E9"
+editor: visual
+incremental: true
+slide-number: true
+footer: "[@sara_institute](https://twitter.com/sara_institute)"
+revealjs-plugins:
+  - confetti
+---
+
+## SARA INSTITUTE {background-color="#E9E9E9"}
+
+::: columns
+::: {.column width="50%"}
+![](image/savitribai.jpg){width="80%"}
+
+**Sa**vitribai Phule 💐
+:::
+
+::: {.column width="50%"}
+![](image/ramabai.jpg){width="70%"}
+
+**Ra**mabai Ambedkar 💐
+:::
+:::
+
+#### [Savitribai Phule & Ramabai Ambedkar Institute of Data Science]{.r-fit-text}
+
+## Sara Institute 💫 {background-color="#E9E9E9"}
+
+> "Our dream is to empower underrepresented communities through data science."
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![](image/ajay.png){width="70%"}
+:::
+
+::: {.column width="60%"}
+
+<br>
+Ajay Kumar Koli, PhD<br>Founder & Executive Director<br>Sara Institute of Data Science<br>[https://koliajay.netlify.app/](https://koliajay.netlify.app/)
+:::
+
+::::
+
+## Sara Institute🚀 {background-color="#E9E9E9"}
+
+-   Preference will be given to SC/ST/OBC **graduate** candidates .
+
+-   Intake **30** students only.
+
+-   It is founded under a **charitable trust.**
+
+-   **Donations.**
+
+## Education 🎓 {background-color="#E9E9E9"}
+
+-   Completely **FREE** education for all the courses.
+
+-   Total duration will be approx. **a year**.
+
+-   Also **online sessions** by data science experts from industry as well as academics.
+
+-   **No certificate.**
+
+## Courses 📚 {background-color="#E9E9E9"}
+
+-   R language:
+
+    -   Data Visualization
+    -   Data Wrangling
+
+-   Statistics
+
+-   Research Methods
+
+-   GitHub
+
+-   Quarto for dynamic content like website making, slide preparation, online books etc.
+
+## 🏡 Accommodation {background-color="#E9E9E9"}
+
+-   All classes will be **offline** at Terra City, Bhiwadi, Delhi NCR. [Google Map Link](https://goo.gl/maps/ukkG8B5LtwhdDRza8)
+
+-   Students have to bear the cost of their **food and accommodation** (approx 3-4 thousand rupees per month).
+
+## Important Dates {background-color="#E9E9E9"}
+
+-   Registration last date: 13 Feb 2023
+
+-   Result date: during last week of Feb 2023
+
+    -   ⛳️**Confirm Travel Ticket before 15 March 2023**
+
+-   Reporting date: during last week of March 2023
+
+-   **Classes will start from the first week of April 2023**
+
+## Instructions Google Form: [www.rb.gy/53p8e1](www.rb.gy/53p8e1) {background-color="#E9E9E9"}
+
+![](image/form.png)
+
+## Contact 🤗 {background-color="#E9E9E9"}
+
+{{< fa envelope title="An envelope" >}} **sara.institute.info@gmail.com**
+
+{{< fa brands twitter >}} **[@sara_institute](https://twitter.com/sara_institute) **
+
+{{< fa briefcase >}} **Sara Institute of Data Science**<br>Terra City, Villa Number 001,<br>Tehsil Tizara, District Alwar<br>Alwar Bhiwadi Road<br>Rajasthan - 301411
+
+# [🙂 Thank you 🙏 ]{.r-fit-text}{background-color="#E9E9E9"}
+
+[Jai Savitri! Jai Ramaai!]{.r-fit-text}
